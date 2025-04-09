@@ -4,7 +4,7 @@ const fetch = require("node-fetch");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const TOKEN = "TU_TOKEN_AQUI"; // pega tu token de BotFather aquí
+const TOKEN = "7597871526:AAHFRnZ_u8DOaU9JGNfwpGg7cw3CbB5IsIc"; 
 
 app.use(bodyParser.json());
 
